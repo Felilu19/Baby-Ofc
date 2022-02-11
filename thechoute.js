@@ -1,7 +1,7 @@
    // - - - - 𝕭𝖆𝖇𝖞𝕭𝖊𝖈𝖍𝖔𝖘𝖔 - - - -\\
   // Si modificas recuerda dejar  \\
  //     Los Creditos               \\
-//////////// 𝕿𝖍𝖊 𝕮𝖍𝖔𝖚𝖙𝖊  \\\\\\\\\\\\\
+//////////// 🌸Mía🌸 \\\\\\\\\\\\\
 
 const { 
   WAConnection,
@@ -145,7 +145,7 @@ try {pushnem = choute.key.fromMe ? leo.user.name : conts.notify || conts.vname |
 Bienvenido a ${mdata.subject}
     
 Esperemos la pases bien y te guste el grupo.
-Recuerda siempre seguir las reglas y mantener una formalidad respetuosa`
+Recuerda siempre seguir las reglas y mantener una formalidad respetuosa 👌`
 
     let fotoP = await getBuffer(ppimg)
     //leo.sendMessage(mdata.id, fotoP, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
